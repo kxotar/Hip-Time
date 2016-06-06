@@ -126,7 +126,7 @@
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.7.0, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v0.3.6, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.7.0, ruby-2.1.8-p440) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.4.1, ruby-2.1.8-p440) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.5.0, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v4.1.1, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.8.3, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="loofah (v2.0.3, ruby-2.1.8-p440) [gem]" level="application" />
@@ -146,20 +146,21 @@
     <orderEntry type="library" scope="PROVIDED" name="railties (v4.2.5.1, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v11.1.2, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.2.2, ruby-2.1.8-p440) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass (v3.4.14, ruby-2.1.8-p440) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v5.0.3, ruby-2.1.8-p440) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sdoc (v0.4.0, ruby-2.1.8-p440) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass (v3.4.22, ruby-2.1.8-p440) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v5.0.4, ruby-2.1.8-p440) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sdoc (v0.4.1, ruby-2.1.8-p440) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="simple_form (v3.0.4, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v3.6.0, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v3.0.4, ruby-2.1.8-p440) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.10, ruby-2.1.8-p440) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.11, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.19.1, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.5, ruby-2.1.8-p440) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, ruby-2.1.8-p440) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v2.0.5, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="turbolinks (v2.5.3, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.2, ruby-2.1.8-p440) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tzinfo-data (v1.2014.2, ruby-2.1.8-p440) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.1.1, ruby-2.1.8-p440) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="web-console (v2.0.0, ruby-2.1.8-p440) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo-data (v1.2016.4, ruby-2.1.8-p440) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uglifier (v3.0.0, ruby-2.1.8-p440) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="web-console (v2.3.0, ruby-2.1.8-p440) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
